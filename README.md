@@ -1,3 +1,38 @@
+Quick start
+
+In the project directory, you can run:
+
+npm i
+
+npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view in the browser.
+
+The page will reload if you make edits.
+
+The tech stack is:
+
+- HTML5
+- CSS3
+- Flexbox
+- Sass(scss)
+- BEM methodology
+- JS ES6
+- React JS
+- REST API
+- ESLint
+- npm
+- prop-types
+- moment.js
+
+
+
+Link on page:
+https://fervent-minsky-03607e.netlify.app/
+
+Author Alexei Pylypchuk
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
