@@ -24,7 +24,7 @@ The tech stack is:
 - ESLint
 - npm
 - prop-types
-- moment.js
+
 
 
 
